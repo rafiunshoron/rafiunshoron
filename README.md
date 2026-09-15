@@ -273,6 +273,85 @@ Research Area:
 - Attention mechanisms
 - NLP classification
 
+---
+
+# 🛠️ Tech Stack
+
+
+## 🤖 AI & Agentic Systems
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
+
+
+
+## 🧠 Machine Learning & LLM Optimization
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/QLoRA-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PEFT-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge"/>
+
+</p>
+
+
+
+## 🗄️ Databases & Memory
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mem0-000000?style=for-the-badge"/>
+
+</p>
+
+
+
+## ⚙️ Development & Deployment
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
 
 
 
