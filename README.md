@@ -83,9 +83,6 @@ Exploring efficient model adaptation through:
 
 ---
 
-# 🚀 Featured Projects
-
----
 
 # 🚀 Featured Projects
 
