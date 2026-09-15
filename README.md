@@ -84,98 +84,64 @@ Exploring efficient model adaptation through:
 ---
 
 
-# 🚀 Featured Projects
-
-
 ## 🧠 MemoryChat AI
 
 > Production-ready conversational AI with persistent memory architecture.
 
-Built with:
-`LangGraph` `OpenAI` `Supabase` `Mem0`
+Built with: `LangGraph` `OpenAI` `Supabase` `Mem0`
 
 Highlights:
-
 - Two-level memory architecture
 - Multi-user authentication
 - Stateful conversation workflow
 
-
-🔗 Repository → [MemoryChat AI](YOUR_LINK)
-
-
+🔗 Repository → [MemoryChat AI](https://github.com/rafiunshoron/memorychat-ai)
 
 ---
-
 
 ## 🔎 Adaptive Research Paper RAG Analyzer
 
 > Advanced RAG system for intelligent research paper understanding.
 
-Built with:
-
-`LangGraph` `ChromaDB` `BM25` `Groq`
+Built with: `LangGraph` `ChromaDB` `BM25` `Groq`
 
 Highlights:
-
 - Hybrid retrieval pipeline
 - Query rewriting
 - RRF fusion
 - Citation-grounded generation
 
-
-🔗 Repository → [RAG Analyzer](YOUR_LINK)
-
-
+🔗 Repository → [RAG Analyzer](https://github.com/rafiunshoron/adaptive-research-paper-rag-analyzer)
 
 ---
-
 
 ## 🤖 DriveVault AI Agent
 
 > MCP-powered AI assistant for Google Drive automation.
 
-Built with:
-
-`LangGraph` `MCP` `Groq` `SQLite`
+Built with: `LangGraph` `MCP` `Groq` `SQLite`
 
 Highlights:
-
 - Custom MCP architecture
 - Tool calling workflow
 - Human approval system
 
-
-🔗 Repository → [DriveVault AI](YOUR_LINK)
-
-
+🔗 Repository → [DriveVault AI](https://github.com/rafiunshoron/drivevault-langgraph-mcp-agent)
 
 ---
-
 
 ## 📊 FinSight AI
 
 > Stateful financial analysis agent for automated reporting.
 
-Built with:
-
-`LangGraph` `Pandas` `SQLite` `Streamlit`
+Built with: `LangGraph` `Pandas` `SQLite` `Streamlit`
 
 Highlights:
-
 - Automated financial analysis
 - LLM report generation
 - Evaluation workflow
 
-
-🔗 Repository → [FinSight AI](YOUR_LINK)
-
-
-
----
-
-
----
+🔗 Repository → [FinSight AI](https://github.com/rafiunshoron/finsight-langgraph-agent)
 
 ## 🧪 Fine-Tuning & Research
 
