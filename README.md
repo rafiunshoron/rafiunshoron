@@ -424,14 +424,6 @@ I'm always interested in:
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rafiunshoron/rafiunshoron/output/github-contribution-grid-snake.svg">
-
-</div>
-
 
 
 
