@@ -257,50 +257,33 @@ Highlights:
 
 ---
 
+---
+
 # 🤝 Let's Connect
 
-
 <div align="center">
-
 
 I'm always interested in:
 
 🤖 Generative AI projects  
 🧠 LLM research  
 🚀 AI engineering opportunities  
-🌎 Open-source collaboration  
+🌍 Open-source collaboration  
 
+<br/>
 
-<br>
-
-
-<a href="mailto:rafishoron31416@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafishoron31416@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-
-<a href="https://github.com/rafiunshoron">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<a href="https://github.com/rafiunshoron" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-
-</div>
-
-
-<br>
-
-
-<div align="center">
+<br/><br/>
 
 ### 🚀 Building AI Systems Beyond Experiments
 
-*"From AI research to real-world intelligence."*
+*From AI research to real-world intelligence.*
 
 </div>
-
----
-
-
-
-
-
