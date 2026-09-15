@@ -149,9 +149,7 @@ Highlights:
 
 **Mistral-7B Instruction Tuning** — Fine-tuned with `PEFT`, `BitsAndBytes`, and 4-bit NF4 QLoRA, reducing held-out perplexity by **39.9%**.
 
-**Research Publication** — *LT-SAA: A Lightweight Transformer with Sentiment-Aware Attention for Fine-Tuned BERT-Based Sentiment Classification* — Springer Nature.
-
----
+**Research Publication** — [LT-SAA: A Lightweight Transformer with Sentiment-Aware Attention for Fine-Tuned BERT-Based Sentiment Classification](https://link.springer.com/chapter/10.1007/978-981-92-3681-7_7) — Springer Nature.
 
 # 🛠️ Tech Stack
 
