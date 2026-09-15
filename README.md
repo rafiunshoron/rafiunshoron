@@ -85,30 +85,27 @@ Exploring efficient model adaptation through:
 
 # 🚀 Featured Projects
 
+---
+
+# 🚀 Featured Projects
+
 
 ## 🧠 MemoryChat AI
 
-### Multi-user Conversational AI with Persistent Memory
+> Production-ready conversational AI with persistent memory architecture.
+
+Built with:
+`LangGraph` `OpenAI` `Supabase` `Mem0`
+
+Highlights:
+
+- Two-level memory architecture
+- Multi-user authentication
+- Stateful conversation workflow
 
 
-A production-ready AI chatbot built with a two-level memory architecture.
+🔗 Repository → [MemoryChat AI](YOUR_LINK)
 
-✨ Highlights:
-
-- Multi-user authentication with Supabase
-- Secure user-isolated conversations
-- LangGraph checkpoint-based memory
-- Mem0 long-term memory
-- Context-aware conversation recall
-- Streamlit deployment
-
-
-**Tech Stack**
-
-`Python` `LangGraph` `OpenAI` `Supabase` `Mem0` `PostgreSQL`
-
-
-🔗 Live Demo: Add your link here
 
 
 ---
@@ -116,28 +113,22 @@ A production-ready AI chatbot built with a two-level memory architecture.
 
 ## 🔎 Adaptive Research Paper RAG Analyzer
 
-### Advanced Retrieval-Augmented Generation System
+> Advanced RAG system for intelligent research paper understanding.
+
+Built with:
+
+`LangGraph` `ChromaDB` `BM25` `Groq`
+
+Highlights:
+
+- Hybrid retrieval pipeline
+- Query rewriting
+- RRF fusion
+- Citation-grounded generation
 
 
-A conversational research assistant designed for accurate paper understanding.
+🔗 Repository → [RAG Analyzer](YOUR_LINK)
 
-
-✨ Highlights:
-
-- Query routing
-- Standalone question rewriting
-- Hybrid dense + BM25 retrieval
-- Reciprocal Rank Fusion
-- Parent-child chunking
-- Citation-grounded responses
-
-
-**Tech Stack**
-
-`LangGraph` `ChromaDB` `BM25` `Groq` `Streamlit`
-
-
-🔗 Live Demo: Add your link here
 
 
 ---
@@ -145,24 +136,21 @@ A conversational research assistant designed for accurate paper understanding.
 
 ## 🤖 DriveVault AI Agent
 
-### MCP-Powered Google Drive Assistant
+> MCP-powered AI assistant for Google Drive automation.
+
+Built with:
+
+`LangGraph` `MCP` `Groq` `SQLite`
+
+Highlights:
+
+- Custom MCP architecture
+- Tool calling workflow
+- Human approval system
 
 
-An intelligent agent capable of interacting with Google Drive through tools.
+🔗 Repository → [DriveVault AI](YOUR_LINK)
 
-
-✨ Highlights:
-
-- Custom MCP client-server architecture
-- Tool calling workflows
-- File search and management
-- Google OAuth authentication
-- Human approval for sensitive actions
-
-
-**Tech Stack**
-
-`Python` `LangGraph` `MCP` `Groq` `SQLite`
 
 
 ---
@@ -170,87 +158,44 @@ An intelligent agent capable of interacting with Google Drive through tools.
 
 ## 📊 FinSight AI
 
-### Stateful Financial Reporting Agent
+> Stateful financial analysis agent for automated reporting.
 
+Built with:
 
-An AI-powered financial analyst that transforms raw data into structured insights.
+`LangGraph` `Pandas` `SQLite` `Streamlit`
 
+Highlights:
 
-✨ Highlights:
-
-- Financial CSV validation
-- Automated metric calculation
+- Automated financial analysis
 - LLM report generation
-- Quality evaluation workflow
-- Human approval pipeline
-- Automated testing
+- Evaluation workflow
 
 
-**Tech Stack**
-
-`LangGraph` `Pandas` `SQLite` `Streamlit` `Plotly`
-
----
-
-# 🧪 LLM Research & Fine-Tuning
-
-
-## ⚡ Qwen3-4B Text-to-SQL Fine-Tuning
-
-### Efficient LLM Adaptation for Database Query Generation
-
-
-Fine-tuned Qwen3-4B using parameter-efficient training techniques.
-
-
-✨ Highlights:
-
-- 4-bit QLoRA fine-tuning
-- Unsloth accelerated training
-- Spider dataset evaluation
-- Database-disjoint testing pipeline
-- SQL generation benchmarking
-
-
-**Tech Stack**
-
-`PyTorch` `Unsloth` `QLoRA` `PEFT` `Hugging Face`
-
-
-📈 Result:
-
+🔗 Repository → [FinSight AI](YOUR_LINK)
 
 
 
 ---
 
 
-## 🔥 Mistral-7B QLoRA Fine-Tuning
+## ⚡ LLM Fine-Tuning Projects
 
 
-### Efficient Instruction Model Adaptation
+### Qwen3-4B Text-to-SQL
+
+`QLoRA` `Unsloth` `Hugging Face`
+
+Efficient LLM adaptation for SQL generation.
 
 
-Fine-tuned Mistral-7B using memory-efficient techniques.
+### Mistral-7B QLoRA
+
+`PEFT` `BitsAndBytes` `PyTorch`
+
+Parameter-efficient instruction tuning.
 
 
-✨ Highlights:
-
-- 4-bit NF4 quantization
-- LoRA adapter training
-- Leakage-safe evaluation
-- Generation quality analysis
-
-
-**Tech Stack**
-
-`PyTorch` `Hugging Face` `PEFT` `BitsAndBytes`
-
-
-📈 Evaluation:
-
-
-
+---
 
 ---
 
