@@ -353,6 +353,76 @@ Research Area:
 </p>
 
 
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafiunshoron&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+
+<br/><br/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiunshoron&theme=tokyonight&hide_border=true" />
+
+
+<br/><br/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiunshoron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+
+</div>
+
+
+---
+
+# 🤝 Let's Connect
+
+
+<div align="center">
+
+
+I'm always interested in:
+
+🤖 Generative AI projects  
+🧠 LLM research  
+🚀 AI engineering opportunities  
+🌎 Open-source collaboration  
+
+
+<br>
+
+
+<a href="mailto:rafishoron31416@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+
+<a href="https://github.com/rafiunshoron">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+### 🚀 Building AI Systems Beyond Experiments
+
+*"From AI research to real-world intelligence."*
+
+</div>
+
+
 
 
 
