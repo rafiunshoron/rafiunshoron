@@ -175,45 +175,15 @@ Highlights:
 ---
 
 
-## ⚡ LLM Fine-Tuning Projects
-
-
-### Qwen3-4B Text-to-SQL
-
-`QLoRA` `Unsloth` `Hugging Face`
-
-Efficient LLM adaptation for SQL generation.
-
-
-### Mistral-7B QLoRA
-
-`PEFT` `BitsAndBytes` `PyTorch`
-
-Parameter-efficient instruction tuning.
-
-
 ---
 
----
+## 🧪 Fine-Tuning & Research
 
+**Qwen3-4B Text-to-SQL** — Fine-tuned with `QLoRA` + `Unsloth`, improving normalized exact match from **22.63% → 39.46%** with **100% SQL validity**.
 
-# 📚 Research Publication
+**Mistral-7B Instruction Tuning** — Fine-tuned with `PEFT`, `BitsAndBytes`, and 4-bit NF4 QLoRA, reducing held-out perplexity by **39.9%**.
 
-
-## LT-SAA: A Lightweight Transformer with Sentiment-Aware Attention for Fine-Tuned BERT-Based Sentiment Classification
-
-
-Published in:
-
-**Lecture Notes in Electrical Engineering**  
-Springer Nature
-
-
-Research Area:
-
-- Transformer architectures
-- Attention mechanisms
-- NLP classification
+**Research Publication** — *LT-SAA: A Lightweight Transformer with Sentiment-Aware Attention for Fine-Tuned BERT-Based Sentiment Classification* — Springer Nature.
 
 ---
 
